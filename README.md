@@ -1,5 +1,8 @@
 # vue-layout
 
+Check out the [Demo](https://vue-layout.herokuapp.com/)
+
+
 > A Vue.js project implementing a Full-Screen "Holy Grail" Layout using Flexbox.
 > 
 > The Holy Grail Layout is a classic CSS problem with various solutions presented over time. 
