@@ -6,11 +6,12 @@
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
-    "start": "npm run dev",
+    "start": "node server.js",
     "build": "node build/build.js",
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "express": "^4.16.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
